@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/coffee-script/bin/coffee ./QuickScrapePromises.coffee"
+    "test": "./node_modules/coffee-script/bin/coffee ./src/coffee/QuickScrape.simplest.coffee"
   },
   "author": "",
   "license": "ISC",
