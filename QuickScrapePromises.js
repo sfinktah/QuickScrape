@@ -1,0 +1,1 @@
+src/js/QuickScrape.simplest.js

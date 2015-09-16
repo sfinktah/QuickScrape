@@ -1,0 +1,1 @@
+src/coffee/QuickScrape.simplest.coffee
