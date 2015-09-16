@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/coffee-script/bin/coffee ./QuickScrapePromises.coffee"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^2.10.0",
     "cheerio": "^0.19.0",
+    "coffee-script": "^1.10.0",
     "lodash": "^3.10.1",
     "request-promise": "^0.4.3"
   },
