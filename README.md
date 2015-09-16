@@ -8,6 +8,8 @@ cd node_modules/quickscrape
 npm test
 ```
 
+Or via git
+
 ```shell
 git clone https://github.com/sfinktah/QuickScrape.git
 cd QuickScrape
@@ -17,6 +19,4 @@ npm test
 
 ## Getting Started
 
-```shell
-npm test
-```
+Source is here [javascript](https://github.com/sfinktah/QuickScrape/blob/master/src/js/QuickScrape.simplest.js) and here [coffee-script](https://github.com/sfinktah/QuickScrape/blob/master/src/coffee/QuickScrape.simplest.coffee)
